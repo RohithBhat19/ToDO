@@ -23,8 +23,8 @@ A simple Todo application built with React, utilizing local storage for data per
 - Mark tasks as completed.
   
 ## Technologies Used
-- React.js
-- CSS
+- [![React](https://img.shields.io/badge/React-18.0.0-blue.svg)](https://reactjs.org/)
+- [![CSS](https://img.shields.io/badge/CSS-3-orange.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
 - Netlify
 
 ## Installation
