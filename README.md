@@ -23,12 +23,12 @@ A simple Todo application built with React, utilizing local storage for data per
 
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
-- Data persistence using local storage.
-- Responsive design with Chakra UI components.
+  
+  
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/RohithBhat19/ToDO
