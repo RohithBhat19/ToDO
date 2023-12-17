@@ -7,10 +7,8 @@ A simple Todo application built with React, utilizing local storage for data per
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
