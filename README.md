@@ -21,7 +21,7 @@ A simple Todo application built with React, utilizing local storage for data per
 
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
-  
+- Data persistence using local storage.
 ## Technologies Used
 - [![React](https://img.shields.io/badge/React-18.0.0-blue.svg)](https://reactjs.org/)
 - [![CSS](https://img.shields.io/badge/CSS-3-orange.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
