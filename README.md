@@ -24,7 +24,10 @@ A simple Todo application built with React, utilizing local storage for data per
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
   
-  
+## Technologies Used
+- React.js
+- CSS
+- Netlify
 
 ## Installation
 
