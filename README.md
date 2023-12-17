@@ -16,8 +16,8 @@ A simple Todo application built with React, utilizing local storage for data per
 
 ![daily](https://github.com/RohithBhat19/ToDO/assets/88024795/9b90995a-287a-45ee-9623-1abf6e06ec07)
 
+[Live Demo](https://resonant-beignet-5bbc8b.netlify.app/)
 
-[Live Demo](#) <!-- Add the link to your live demo when available -->
 
 ## Features
 
